@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Vinaixa Lab</title>
+    <link>/VinaixaLab/categories/</link>
+    <description>Recent content in Categories on Vinaixa Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Maria Vinaixa</copyright>
+    
+	<atom:link href="/VinaixaLab/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R</title>
+      <link>/VinaixaLab/categories/r/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/VinaixaLab/categories/r/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
